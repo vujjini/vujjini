@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there! 
+🚀 About Me
+I am (insert name), a (insert major) studying at the (insert university)!
+I am currently a (insert job position) for the (insert company)!
+I have previously worked as a (insert job position) for (insert company name)!
+📚 Outside the tech world, (add your own content here!)
 
-<!--
-**vujjini/vujjini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+python javascript css html firebase swift Git
 
-Here are some ideas to get you started:
+📝 Networking
+I am currently looking for a (insert job type)!
+I am also looking to collaborate on (insert project type)!
+Connect with me down below!
+📈 Stats
+[![(INSERT NAME)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(INSERT GITHUB USERNAME))](https://github.com/INSERT GITHUB USERNAME/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗Connect with me!
+[github] [instagram] [linked-in] [twitter]
