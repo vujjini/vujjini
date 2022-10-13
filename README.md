@@ -2,11 +2,7 @@
 
 ## 🚀 About Me
 
-- I am (insert name), a **(insert major)** studying at the (insert university)! 
-- I am currently a (insert job position) for the (insert company)! 
-- I have previously worked as a (insert job position) for (insert company name)!
-
-📚 Outside the tech world, (add your own content here!)
+- I am Sriram, a Computer Science major studying at the (insert university)! 
 
 ## 🛠️ Skills
 
@@ -16,20 +12,21 @@
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a (insert job type)!
-- I am also looking to collaborate on (insert project type)!
+- I am currently looking for an SDE internship!
+- I am also looking to collaborate on web dev projects!
 - Connect with me down below!
 
 ## 📈 Stats
-[![(INSERT NAME)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(INSERT GITHUB USERNAME))](https://github.com/INSERT GITHUB USERNAME/github-readme-stats)
+[![vujjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujjini)](https://github.com/vujjini/github-readme-stats)
 
 ## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB USERNAME)-->
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/INSTAGRAM USERNAME)-->
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/LINKEDIN USERNAME)-->
-[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]<!---((https://twitter.com/TWITTER USERNAME)-->
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/vujjini)-->
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/sriram___007)-->
+<!-- [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/LINKEDIN)-->
+<!-- [![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]-((https://twitter.com/) -->
