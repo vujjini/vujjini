@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- I am Sriram, a Computer Science major studying at the (insert university)! 
+- I am Sriram, a Computer Science major studying at the University of South Florida! 
 
 ## 🛠️ Skills
 
